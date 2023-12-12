@@ -8,12 +8,6 @@
       "id": 1
     },
     {
-      "artist": "Kamau",
-      "year": "2005",
-      "photo": "https://picsum.photos/400/484",
-      "id": 3
-    },
-    {
       "artist": "Samedixs",
       "year": "2010",
       "photo": "https://picsum.photos/400/396",
@@ -48,6 +42,12 @@
       "year": "2021",
       "photo": "https://picsum.photos/400/470",
       "id": 9
+    },
+    {
+      "artist": "bonjour",
+      "year": "2500",
+      "photo": "https://picsum.photos/400/413",
+      "id": 10
     }
   ]
 }
